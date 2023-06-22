@@ -1,4 +1,4 @@
-![alt text](https://www.ingefox.com/wp-content/uploads/2020/06/Redfox-transparent-600x188.png "RedFox Logo")
+![alt text](https://ingefox.com/wp-content/uploads/2023/06/Image1.png "RedFox Logo")
 
 [![Generic badge](https://img.shields.io/badge/Version-3.0-green.svg)](https://shields.io/) [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE) 
 
