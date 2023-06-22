@@ -1,0 +1,7 @@
+{
+  "name" : "IntegrationConfig",
+  "description" : "Module responsable des éléments de configuration liés à l'intégration",
+  "version" : "1.0",
+  "release_note" : "Version initiale",
+  "RF_dependencies" : ["RFCore"]
+}
